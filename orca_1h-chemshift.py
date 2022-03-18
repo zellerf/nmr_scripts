@@ -1,6 +1,8 @@
 #!/usr/bin/python
 import sys
 
+# usage: python3 orca_1h-chemshift.py orca_property.txt
+
 # parse specified file for 1h nmr shifts
 # file[in]: filename to parse
 # shifts[return]: dict of atomindices with associated shift
